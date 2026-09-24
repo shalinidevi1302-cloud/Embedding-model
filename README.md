@@ -1,3 +1,4 @@
+Embedding Model
 Project Overview
 
 This project demonstrates how text embeddings can be generated using a pre-trained Sentence Transformer model and how cosine similarity can be used to identify semantically similar sentences.
